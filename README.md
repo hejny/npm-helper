@@ -1,4 +1,14 @@
 # VSCode npm-helper
+
+<!--Badges-->
+
+ [![Package Quality](https://packagequality.com/shield/npm-helper.svg)](https://packagequality.com/#?package=npm-helper)
+ [![License](https://img.shields.io/github/license/hejny/npm-helper.svg?style=flat)](https://raw.githubusercontent.com/hejny/npm-helper/master/LICENSE)
+ [![NPM Version](https://badge.fury.io/js/@hejny%2Fnpm-helper.svg)](https://www.npmjs.com/package/@hejny/npm-helper)
+ [![Known Vulnerabilities](https://snyk.io/test/github/hejny/npm-helper/badge.svg)](https://snyk.io/test/github/hejny/npm-helper)
+ [![Issues](https://img.shields.io/github/issues/hejny/npm-helper.svg?style=flat)](https://github.com/hejny/npm-helper/issues)
+
+<!--/Badges-->
 A VS Code extension to check for npm package is exist and satisfied required version in package.json  
 
 [![](https://vsmarketplacebadge.apphb.com/version-short/karanba.npm-helper.svg)](https://marketplace.visualstudio.com/items?itemName=karanba.npm-helper) [![GitHub](https://img.shields.io/github/license/karanba/npm-helper.svg)](https://raw.githubusercontent.com/karanba/npm-helper/master/LICENSE) [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/karanba/npm-helper.svg)](https://github.com/karanba/npm-helper) [![GitHub](https://img.shields.io/github/issues/karanba/npm-helper.svg?style=flat-square)](https://github.com/karanba/npm-helper/issues) 
