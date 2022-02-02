@@ -2,8 +2,9 @@
 
 <!--Badges-->
 
- [![Package Quality](https://packagequality.com/shield/npm-helper.svg)](https://packagequality.com/#?package=npm-helper)
- [![License](https://img.shields.io/github/license/hejny/npm-helper.svg?style=flat)](https://raw.githubusercontent.com/hejny/npm-helper/master/LICENSE)
+ [![License of VSCode npm-helper](https://img.shields.io/github/license/hejny/npm-helper.svg?style=flat)](https://github.com/hejny/npm-helper/blob/master/LICENSE)
+ [![NPM Version of VSCode npm-helper](https://badge.fury.io/js/npm-helper.svg)](https://www.npmjs.com/package/npm-helper)
+ [![Quality of package VSCode npm-helper](https://packagequality.com/shield/npm-helper.svg)](https://packagequality.com/#?package=npm-helper)
  [![Known Vulnerabilities](https://snyk.io/test/github/hejny/npm-helper/badge.svg)](https://snyk.io/test/github/hejny/npm-helper)
  [![Issues](https://img.shields.io/github/issues/hejny/npm-helper.svg?style=flat)](https://github.com/hejny/npm-helper/issues)
 
