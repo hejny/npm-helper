@@ -116,5 +116,6 @@
   },
   "dependencies": {
     "semver": "5.6.0"
-  }
+  },
+  "license": "SEE LICENSE IN LICENSE"
 }
